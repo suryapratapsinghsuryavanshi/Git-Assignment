@@ -17,5 +17,5 @@ int main() {
     printf("Enter a number: ");
     scanf("%d", &n);
     int res = fib(n);
-    printf("%d'th fibonacci number is: %d", n, res);
+    printf("%d'th fibonacci number is: %d\n", n, res);
 }
